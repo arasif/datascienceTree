@@ -11,3 +11,5 @@ At the core is data. Troves of raw information, streaming in and stored in enter
  - HTML
  - d3.js
  - json
+ 
+ ![alt text](https://github.com/arasif/datascienceTree/blob/master/ardstree.PNG)
